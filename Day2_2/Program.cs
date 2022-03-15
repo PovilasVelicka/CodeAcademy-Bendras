@@ -205,7 +205,7 @@ namespace Day2_2
         }
         static void Recursija_1()
         {
-            string[] myArray= { "ff"};
+            string[] myArray= { "ff g"};
             int position = myArray.Length - 1;
             PrintArray(myArray, ref position);
             Console.ReadKey();
