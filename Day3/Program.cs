@@ -7,8 +7,7 @@ namespace Day3
         static void Main(string[] args)
         {
             do {
-                //string a = "povilas";
-                //string b = "velicka";
+           
                 //reverse(a, out b);
                 //void reverse(string a,out string b)
                 //{
