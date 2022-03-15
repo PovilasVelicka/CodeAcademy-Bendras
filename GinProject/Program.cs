@@ -7,7 +7,7 @@ namespace GinProject
         static void Main(string[] args)
         {
             Console.WriteLine("sveiki visi");
-            Console.WriteLine("naujas projektas.");
+            Console.WriteLine("naujas projekt as.");
         }
     }
 }
